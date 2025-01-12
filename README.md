@@ -1,5 +1,5 @@
 <!-- 프로그래밍 언어 -->
-<h4 align="center">Programming Languages:</h4>
+<h4 align="center">Languages</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -15,7 +15,7 @@
 </p>
 
 <!-- 클라우드 서비스 -->
-<h4 align="center">CI/CD:</h4>
+<h4 align="center">CI/CD</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -26,7 +26,7 @@
 </p>
 
 <!-- 프레임워크 & 라이브러리 -->
-<h4 align="center">Frameworks & Libraries:</h4>
+<h4 align="center">Frameworks & Libraries</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
 <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant-Design"/>
@@ -50,7 +50,7 @@
 </p>
 
 <!-- 서버 & 데이터베이스 -->
-<h4 align="center">Servers & Databases:</h4>
+<h4 align="center">Servers & Databases</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
@@ -61,7 +61,7 @@
 </p>
 
 <!-- 도구 & 유틸리티 -->
-<h4 align="center">Tools & Utilities:</h4>
+<!-- <h4 align="center">Tools & Utilities:</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
@@ -69,4 +69,4 @@
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
 <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
-</p>
+</p> -->
