@@ -15,7 +15,7 @@
 </p>
 
 <!-- 클라우드 서비스 -->
-<h4 align="center">CI/CD</h4>
+<h4 align="center">Cloud & DevOps</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
